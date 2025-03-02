@@ -23,8 +23,8 @@ Trong quá trình làm việc, mình đã có cơ hội tham gia vào nhiều d�
 
 📂 **Hãy tham khảo các repository của tôi bên dưới và đừng ngần ngại liên hệ nếu bạn muốn cộng tác!**  
 
-## 🌍 Kết nối với tôi  
-🔗 [Facebook]([https://www.facebook.com/](https://www.facebook.com/giabao.ngo.75098364/))  
+## 📫 Kết nối với tôi  
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/giabao.ngo.75098364/)
 
 ## 🚀 Ngôn ngữ & Công cụ  
 
