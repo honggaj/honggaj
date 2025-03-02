@@ -10,7 +10,7 @@
 - **Xây dựng ứng dụng web hiện đại**  
 
 ## 🚀 Về tôi  
-Tôi yêu thích lập trình và luôn tìm cách học hỏi công nghệ mới. Với sự am hiểu về **Angular**, tôi mong muốn phát triển các ứng dụng web mạnh mẽ và tối ưu.  
+Từ nhỏ, tôi đã luôn yêu thích cái đẹp, màu sắc và sự sáng tạo trong mọi thứ xung quanh. Tôi đặc biệt bị thu hút bởi những giao diện trực quan, những thiết kế ấn tượng trên các ứng dụng và website. Chính niềm đam mê đó đã dẫn tôi đến với Frontend Development, nơi tôi có thể kết hợp giữa thẩm mỹ và công nghệ để tạo ra những sản phẩm trực quan, đẹp mắt và thân thiện với người dùng.
 
 ## 💻 Các dự án nổi bật  
 Trong quá trình làm việc, mình đã có cơ hội tham gia vào nhiều dự án khác nhau, giúp mình cải thiện kỹ năng và học hỏi thêm rất nhiều điều:  
