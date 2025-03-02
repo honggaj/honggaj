@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Xin chào! Tôi là Ngô Gia Bảo  
 
-<!--
-**honggaj/honggaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎂 Ngày sinh: **19/04/2004**  
+💻 Lập trình viên với đam mê về **Frontend & Backend Development**  
 
-Here are some ideas to get you started:
+## 🛠️ Kỹ năng chính  
+- **HTML, CSS, JavaScript, TypeScript**  
+- **Angular, Node.js**  
+- **Xây dựng ứng dụng web hiện đại**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Về tôi  
+Tôi yêu thích lập trình và luôn tìm cách học hỏi công nghệ mới. Với sự am hiểu về **Angular** và **Node.js**, tôi mong muốn phát triển các ứng dụng web mạnh mẽ và tối ưu.  
+
+📫 Hãy kết nối với tôi nhé! 🚀  
