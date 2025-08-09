@@ -63,7 +63,6 @@
 #### 🍽️ **Web Đặt Bàn Nhà Hàng**
 - ✨ Giao diện responsive, thân thiện
 - 🗓️ Hệ thống đặt bàn real-time
-- 💳 Tích hợp thanh toán online
 - 📱 Mobile-first design
 
 **Tech Stack:** `Angular` `.NET Core` `SQL Server`
@@ -86,9 +85,9 @@
 
 #### 📚 **Bookstore Online**
 - 📖 Thư viện sách đa dạng
-- 🎯 Gợi ý sách cá nhân hóa
+- 💳 Tích hợp thanh toán online
 - 💬 Cộng đồng review & thảo luận  
-- 🔖 Wishlist & Reading Progress
+- 🔖 Wishlist 
 
 **Tech Stack:** `Angular` `.NET Core` `SQL Server`
 
@@ -98,7 +97,6 @@
 #### 🎬 **Website Xem Phim**
 - 🎥 Streaming chất lượng cao
 - 🎭 Phân loại theo thể loại
-- 💾 Lưu phim yêu thích
 - 🌙 Dark/Light mode
 
 **Tech Stack:** `Angular` `Tailwind CSS`
