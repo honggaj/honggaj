@@ -50,7 +50,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="40"> **Dự Án Cá Nhân**
+## <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="40"> **Dự Án**
 
 <div align="center">
 
@@ -109,21 +109,6 @@
 
 </div>
 
----
-
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40"> **Dự Án Nhóm**
-
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; border-radius: 20px; margin: 20px 0;">
-
-### 🏢 **Các Hệ Thống Đã Phát Triển**
-
-| 🛒 **Website Bán Hàng** | 📈 **Quản Lý Bán Hàng** | 🏥 **Quản Lý Phòng Khám** |
-|:---:|:---:|:---:|
-| Hệ thống e-commerce hoàn chỉnh | Tối ưu hóa quy trình bán hàng | Quản lý dữ liệu y tế |
-| Frontend + API integration | Quản lý sản phẩm & khách hàng | Giao diện thân thiện |
-| Team collaboration | Dashboard analytics | Patient management |
-
-</div>
 
 ---
 
