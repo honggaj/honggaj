@@ -112,19 +112,6 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> **GitHub Stats**
-
-<div align="center">
-  
-![Bao's GitHub stats](https://github-readme-stats.vercel.app/api?username=giabao&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2563eb&icon_color=2563eb&text_color=ffffff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giabao&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2563eb&text_color=ffffff)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=giabao&theme=tokyonight&hide_border=true&background=0D1117&stroke=2563eb&ring=2563eb&fire=2563eb&currStreakLabel=2563eb)
-
-</div>
-
----
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Kết Nối Với Tôi**
 
