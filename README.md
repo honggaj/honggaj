@@ -66,7 +66,7 @@
 - 💳 Tích hợp thanh toán online
 - 📱 Mobile-first design
 
-**Tech Stack:** `Angular` `TypeScript` `Tailwind CSS`
+**Tech Stack:** `Angular` `.NET Core` `SQL Server`
 
 </td>
 <td width="50%">
@@ -77,7 +77,7 @@
 - 📦 Quản lý đơn hàng & giao hàng
 - ⭐ Hệ thống đánh giá sản phẩm
 
-**Tech Stack:** `React` `Node.js` `SQL Server`
+**Tech Stack:** `Angular` `.NET Core` `SQL Server`
 
 </td>
 </tr>
