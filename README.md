@@ -5,7 +5,7 @@
 
 ## 🛠️ Kỹ năng chính  
 - **HTML, CSS, JavaScript, TypeScript**  
-- **Angular, Node.js, Tailwind CSS**  
+- **Angular, .Net Core, Tailwind CSS**  
 - **SQL Server**  
 - **Xây dựng ứng dụng web hiện đại**  
 
