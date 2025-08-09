@@ -101,7 +101,7 @@
 - 💾 Lưu phim yêu thích
 - 🌙 Dark/Light mode
 
-**Tech Stack:** `React` `TypeScript` `Tailwind CSS`
+**Tech Stack:** `Angular` `Tailwind CSS`
 
 </td>
 </tr>
